@@ -1,0 +1,14 @@
+#Obsidian local workspace & cache
+brain/.obsidian/workspace.json
+brain/.obsidian.workspace-mobile.json
+brain/.obsidian/cache/
+
+#OS metadata
+.DS_Store
+Thumbs.db
+
+#Dependencies & build outputs
+node_modules/
+dist/
+build/
+target/
